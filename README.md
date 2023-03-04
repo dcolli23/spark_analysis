@@ -1,6 +1,6 @@
 # Spark_Analysis
 
-This repo is meant to house code for the detection and analysis of calcium sparks in cardiomyocytes. This code was recently utilized in the paper, "3D dSTORM Imaging Reveals Novel Detail of Ryanodine Receptor Localization in Rat Cardiac Myocytes" by Shen et al.
+This repo is houses code for the detection and analysis of calcium sparks in cardiomyocytes. This code was utilized in the paper, "3D dSTORM Imaging Reveals Novel Detail of Ryanodine Receptor Localization in Rat Cardiac Myocytes" by Shen et al.
 
 ### Dependencies
 
@@ -41,10 +41,9 @@ To replicate analysis performed on confocal images of cardiomyocytes found withi
 
 ### Troubleshooting/Future Use
 
-Please email Dylan Colli at dfco222@g.uky.edu for any questions or comments concerning the included code. 
-I'd be happy with any and all issues.
-If there is an error, please include the error message and all arguments used to run the command. 
-Open-source software and reproducibility is an important facet of data science and scientific computing, so please acknowledge this work if it is used.
+For any questions, comments, or concerns, please open a GitHub issue and I will address it as soon as possible.
+If there is an error, please include the error message and all arguments used to run the command in the GitHub issue.
+Open-source software and reproducibility is an important facet of scientific computing, so please acknowledge this work if it is used.
 
 ### Licensing
 
